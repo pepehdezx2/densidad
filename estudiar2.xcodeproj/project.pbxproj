@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		180197CD204DFEF500F8BD50 /* estudiar2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = estudiar2; sourceTree = BUILT_PRODUCTS_DIR; };
 		180197D0204DFEF500F8BD50 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		180197D7204E141100F8BD50 /* Densidad.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Densidad.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				180197D0204DFEF500F8BD50 /* main.cpp */,
+				180197D7204E141100F8BD50 /* Densidad.h */,
 			);
 			path = estudiar2;
 			sourceTree = "<group>";
